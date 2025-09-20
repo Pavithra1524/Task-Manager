@@ -6,7 +6,7 @@ Backend: Django, Django REST Framework
 Database: PostgresSql
 API: RESTful endpoints
 
-Features
+# Features
 User authentication and management
 Create, update, delete tasks and subtasks
 Assign team members to tasks
@@ -17,7 +17,7 @@ Dashboard with charts and statistics
 Trash and restore deleted tasks
 Change password and user profile management
 
-Project Flow
+# Project Flow
 User Registration/Login: Users can register and log in. Roles (Admin, Manager, Member) are assigned.
 Dashboard: After login, users see a dashboard with task stats and recent activity.
 Task Management: Users can create tasks, assign team members, set priority/stage, and upload assets.
