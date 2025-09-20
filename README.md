@@ -1,6 +1,6 @@
 # Task-Manager
 
-Technologies Used
+# Technologies Used
 Frontend: React, Vite, Tailwind CSS, Redux Toolkit
 Backend: Django, Django REST Framework
 Database: PostgresSql
